@@ -1,0 +1,5 @@
+"target/" 
+"*.log" 
+"logs/" 
+"uploads/" 
+"hs_err_pid*.log" 
